@@ -62,26 +62,6 @@ Author: Ziad <mmnnm1937@hotmail.com>
 Installed-Size: 164
 Name: iCamerax Z
 
-Package: com.ziad.pubghacklite
-Version: 0.15.0
-Architecture: iphoneos-arm
-Maintainer: Tweaky
-Depends: mobilesubstrate
-Filename: ./debs/com.arab-cydia.pubghacklite_0.15.deb
-Size: 443928
-MD5sum: 4d64541d985e9c8ab3fac1c6cc18e159
-SHA1: 7040fcbd94e420f2cbb166e4c47e77416795fd9a
-SHA256: 7429f15469feafdc8a073c22570627c7635cb53d3d9309fa56670fda7f95e512
-Section: Tweaks ( By Tweaky )
-Description: مميزات الهاك
- - ثبات سلاح
- - ثبات كامره
- - عدم تناثر الرصاص
- استمتعوو مع Tweaky
-Author: Tweaky
-Installed-Size: 860
-Name: PUBG Hack Tweaky Lite
-
 Package: com.ziad.shortcutenabler
 Version: 1.0.0-1
 Architecture: iphoneos-arm
@@ -114,42 +94,6 @@ Author: ziad
 Installed-Size: 124
 Name: CallBar XS 11 & 12 تعريب
 
-Package: com.artikus.neonboard
-Version: 2.0.0
-Architecture: iphoneos-arm
-Maintainer: ArtikusHG
-Depends: mobilesubstrate
-Conflicts: com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard
-Replaces: com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles
-Filename: ./debs/com.artikus.neonboard_2.0.0_iphoneos-arm.deb
-Size: 74578
-MD5sum: 3d8b480654fddf22038a49ba1a13ab52
-SHA1: ddf95fa3c02b2893336e3a69a1cf0a53b5b09eee
-SHA256: 83bf5d23cf30606921c7f13e597c873edca28efde2dd6e032bde7630623cffa2
-Section: Tweaks
-Description: A small and unfinished theming engine I made as an experiment.
-Author: ArtikusHG
-Installed-Size: 448
-Name: NeonBoard
-Provides: com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles
-
-Package: com.fidele007.khmersmarterkeyboard
-Version: 1.5.4
-Architecture: iphoneos-arm
-Maintainer: fidele007 <kforcefidele@yahoo.com>
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/com.fidele007.khmersmarterkeyboard_1.5.4_iphoneos-arm.deb
-Size: 101820
-MD5sum: 8707480658698461e01636404618099a
-SHA1: 6ca7b648de97b3e48528a200c5eb31e0b6644b3b
-SHA256: 0d184e373bcfbe6648cefdca1ecf6154dfadb55b54151ce41b0c025b5166a3e6
-Section: Tweaks
-Description: Various improvements on Khmer Smart Keyboard.
-Author: fidele007 <kforcefidele@yahoo.com>
-Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.khmersmarterkeyboard
-Installed-Size: 480
-Name: Khmer Smarter Keyboard
-
 Package: com.ziad.instanoads
 Version: 2.0.0
 Architecture: iphoneos-arm
@@ -179,22 +123,6 @@ Section: System
 Author: Hao Nguyen <hao.ict56@gmail.com>
 Installed-Size: 312
 Name: libhdev Z
-
-Package: com.midcoreboot.zolivolxi
-Version: 0.0.1-6+debug
-Architecture: iphoneos-arm
-Maintainer: midcoreboot
-Depends: mobilesubstrate
-Filename: ./debs/com.midcoreboot.zolivolxi.deb
-Size: 5490
-MD5sum: 8b13573ea68d1f81ed54f700acf06251
-SHA1: 339d014aba2c814486aa04b5ac64375908fb8058
-SHA256: 4ccc7e06face85b38627e20406b637d6d905ecc4db6ab45819cc8d2cb64a8e84
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: midcoreboot
-Installed-Size: 117
-Name: ZoliVolXI
 
 Package: com.ps.calleridfs
 Version: 0.0.2
@@ -483,23 +411,6 @@ Section: Tweaks
 Description: اداة لتهيكر التطبيقات بضغطة زر
 Author: aJBbo For ArabCrackTeam
 Name: Arab Hack
-
-Package: com.ziad.axon
-Version: 0.1.9
-Architecture: iphoneos-arm
-Maintainer: ziad
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: ./debs/com.ziad.axon_0.1.9_iphoneos-arm.deb
-Size: 168726
-MD5sum: 4ee7148687f9d1d05ce99d5c54002d09
-SHA1: 3632a4b17cd5304956a9021b936aa1cf12d7f93c
-SHA256: 41fe09a057b0a52be43aefb1e64fe29f57df02cc96722980aac06ada28968d53
-Section: Tweaks
-Description: تقسيم الاشعارات الى شكل صغير وجميل
-Author: Ziad
-Installed-Size: 508
-Name: Axon
 
 Package: com.ziad.betterccxiweather
 Version: 1.0.3
@@ -833,22 +744,6 @@ Installed-Size: 2644
 Name: Pasithea 2 (iOS 10 to 12)
 dev: Cannathea
 
-Package: com.ziad.pubghack
-Version: 0.15.5
-Architecture: iphoneos-arm
-Maintainer: Ziad
-Depends: mobilesubstrate
-Filename: ./debs/com.ziad.pubghack_0.15.5_iphoneos-arm.deb
-Size: 363768
-MD5sum: 7f0c015b3513fe2e0065b73bf1422d46
-SHA1: 782e6da7d7a5e019cf3c2067aba5bc8ecdf3d656
-SHA256: 05d64dc994c307fa380934db723e7fe90914f9fad1faec3d67eeede9a0f03d28
-Section: Tweaks
-Description: PUBG Mod Menu by X204!
-Author: Ziad
-Installed-Size: 644
-Name: PUBG Mod Menu
-
 Package: com.ziad.shuffle
 Version: 0.8.0b
 Architecture: iphoneos-arm
@@ -971,34 +866,6 @@ Author: FoxfortMobile
 Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
 Installed-Size: 976
 Name: Translomatic
-
-Package: com.yourepo.storeali.hackpubgmodmenua13
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: @BossAli <3llawi416@gmail.com>
-Filename: ./debs/com_yourepo_storeali_hackpubgmodmenua13_1.deb
-Size: 2807058
-MD5sum: 49c80c0bcf498f76977e30e0eb2770f6
-SHA1: 822396eec54d152ad60f8a2e822b7cfe8b018150
-SHA256: 74440943419dfa813acc2975908347ccc102c8bb862b6980153bdf7db95b48dc
-Section: Tweaks
-Description: PUBG MOD MENU JOKER+HSK+ZUWL editor by @Bossali
-Author: @bossAli <3llawi416@gmail.com>
-Name: HACK PUBG MOD MENU A13
-
-Package: com.yourepo.storeali.beta-hostv2
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: Ali <3llawi416@gmail.com>
-Filename: ./debs/Get.Host-5.deb
-Size: 2971600
-MD5sum: e6b73552ec7c689ccc369e8412da7ca6
-SHA1: 0fbff58bddf4a1f77b93a6934a89e272815e640a
-SHA256: f71a5bedbcf0a131e056938c48935c1e1d85beab931be8a23a287591fa95e940
-Section: Security
-Description: Host VIP and Liberty lite-Antiban By BossAli VIP
-Author: storeali-sa <3llawi416@gmail.com>
-Name: Beta-HostV2
 
 Package: iostamara.dayn
 Version: 1.1
