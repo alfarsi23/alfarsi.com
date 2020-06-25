@@ -15,21 +15,6 @@ Author: Jonathan Winger-lang
 Installed-Size: 1464
 Name: Snapper 2
 
-Package: com.ziad.slidersmall
-Version: 0.15.0
-Architecture: iphoneos-arm
-Maintainer: ziad <mmnnm1937@hotmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.ahmad.slidersmall_0.15.deb
-Size: 12854
-MD5sum: bad1820539009b9ec2c5eaa6eaf98592
-SHA1: 4afb83bc35d56de371e0157a4dc414e238ae6d8e
-SHA256: 1d81a08748645d9ed14c501a375411465705504560d9b5174479d11a02331c7f
-Section: PUBG Hack.
-Author: ziad
-Installed-Size: 200
-Name: Pubg Slider Small 0.15.0
-
 Package: com.ziad.dockclear
 Version: 0.1
 Architecture: iphoneos-arm
@@ -987,4 +972,20 @@ Description: A patch for Activator that fixes play/pause toggle action on iOS 11
 Author: Elias Limneos <limneoselias@gmail.com>
 Installed-Size: 72
 Name: Activator Play/Pause fix 11.3.x
+
+Package: net.ziad.lynx
+Version: 1.5-2
+Architecture: iphoneos-arm
+Maintainer: Ziad
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Filename: ./debs/net.myclassic.lynx_1.deb
+Size: 740040
+MD5sum: 58574f0d8529d60bf0e0c2022a136730
+SHA1: 37e9551be790a35bd630cdd071ca13ff494c9305
+SHA256: 71418dd309c3de1bf2cf6789835543aed1d301dc43c6fb5008abfe3f27fcfc3f
+Section: Tweaks
+Author: MTAC <mtactheming@gmail.com>
+Icon: https://twickd.com/cdn/screenshots/6195125da9033aac54ffa8c087ff0eaa/default
+Installed-Size: 1808
+Name: Lynx
 
