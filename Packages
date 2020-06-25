@@ -344,6 +344,23 @@ Icon: https://alfarsi23.github.io/repo/CydiaIcon.png
 Installed-Size: 852
 Name: SmartBattery Z
 
+Package: com.ziad.grabberex
+Version: 0.9.5
+Architecture: iphoneos-arm
+Maintainer: XQF <xqf4k1@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/com.xqf.grabberex_0.9.deb
+Size: 16054
+MD5sum: e655d26864c5c1ea2eb6b7200ddafb98
+SHA1: 1cb7929318cb768e128bb1cacb03ed84f11ee650
+SHA256: 58ea1a15ab0b8fb86f02f79fefff33743da3616ddb547eb16c413917d3d6a31e
+Section: Tweaks
+Description: اظهار نسبة البطارية والساعة في الالعاب مثل ببجي
+Author: XQF
+Icon: https://fakuit01.github.io/repo1/desc/grabberex/grabberexIcon.png
+Installed-Size: 264
+Name: GrabberEX
+
 Package: com.ziad.abetterprivacyforwhatsapp
 Version: 1.4.8
 Architecture: iphoneos-arm
